@@ -11,6 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.carousel-size{
-max-width: 500px;
+
+.boxes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+ 
+}
+.mostanad-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }

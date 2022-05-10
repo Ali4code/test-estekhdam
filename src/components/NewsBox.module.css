@@ -1,0 +1,27 @@
+.newsitem {
+    width: 700px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    margin: 2px;
+    align-items: center;
+}
+.news {
+    width: 800px;
+    align-items: center;
+    overflow: scroll;
+    max-height: 400px;
+}
+.title {
+ display: flex;
+ flex-direction: row-reverse;
+}
+.newsdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    padding:5px 10px
+}

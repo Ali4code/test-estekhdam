@@ -1,0 +1,29 @@
+.mostanad {
+    background-color: rgb(31, 85, 146);
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    box-shadow: none;
+    margin: 10px;
+}
+.insidemostanad{
+    background-color: rgb(30, 175, 233);
+    height:300px;
+    width: 400px;
+    border-radius: 0%;
+    border-bottom: 5px white solid;
+    border-top: 5px white solid;
+    box-shadow: none;
+    display: flex;
+    flex-direction: column;
+    color:white ;
+    text-align: end;
+    padding: 5px;
+    overflow: scroll;
+}
+.h3 {
+    padding-right: 20px;
+}
