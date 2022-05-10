@@ -1,0 +1,13 @@
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 30px;
+    margin: 2px;
+    background-color: rgb(30, 175, 233);
+
+}
+.item {
+    padding: 3px 20px;
+    cursor: pointer;
+}
